@@ -1,2 +1,2 @@
 # TypeSwift
-A typescript development server
+A typescript development server.
